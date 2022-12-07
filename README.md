@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan0c&label=Profile%20views&color=0e75b6&style=flat" alt="chandan0c" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/cozy-blini-chandan-giri-portfolio/deploys](https://app.netlify.com/sites/cozy-blini-chandan-giri-portfolio/deploys)
+- 👨‍💻 All of my projects are available at [https://chandan-giri-portfolio.netlify.app/deploys](https://chandan-giri-portfolio.netlify.app//deploys)
 
 - 💬 Ask me about **MERN stack technology**
 
