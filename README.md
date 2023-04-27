@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chandan0c098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QF1HPxybuE5efXEB0SgRZM1UPJVZZcHl/view](https://drive.google.com/file/d/1QF1HPxybuE5efXEB0SgRZM1UPJVZZcHl/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QF1HPxybuE5efXEB0SgRZM1UPJVZZcHl/view](https://drive.google.com/file/d/1UWU2ZcRI10HSTpY2WBRNc8OBVCNtFRgk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
