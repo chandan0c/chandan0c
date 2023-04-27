@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandan-giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-giri" height="30" width="40" /></a>
-  <a href="chandan0c098@gmail.com" target="blank" type="email"><img align="center" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" alt="chandan-giri" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/girirai890/" target="blank" type="email"><img align="center" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" alt="chandan-giri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
